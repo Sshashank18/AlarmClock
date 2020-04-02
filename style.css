@@ -1,0 +1,18 @@
+body{
+    background:black;
+}
+
+#myDigitalClock{
+    color:#fff;
+    padding:300px;
+    padding-left:650px;
+    font-size:80px;
+    font-family:'Digital-7','sans-serif';
+}
+
+.list{
+    background-color: ;
+    width:150px;
+    height: 98vh;
+    float:left;
+}
